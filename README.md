@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/waving-hand_1f44b.png" width="30px" height="30px" alt="Waving Hand">
+## Hi there 👋 
 
 <!--
 **enesaktas10/enesaktas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

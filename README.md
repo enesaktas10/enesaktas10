@@ -1,5 +1,7 @@
 ## Hi there 👋 
-<a href="https://www.google.com/webhp?hl=tr&sa=X&ved=0ahUKEwj51ZHN7rCHAxXlRPEDHaJ9Ai0QPAgI">GG<a/>
+I`m <a href="https://enesaktas10.github.io/blog/">Enes<a/>, a software engineer based in Turkiye
+
+
 <!--
 **enesaktas10/enesaktas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

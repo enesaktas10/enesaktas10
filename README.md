@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I`m <a targer="_blank" href="https://enesaktas10.github.io/blog/">Enes<a/>, a software engineer based in Turkiye
+I`m <a targer="_blank" href="https://peaceful-crostata-c1ba98.netlify.app/#home">Enes<a/>, a software engineer based in Turkiye
 
 
 <!--
